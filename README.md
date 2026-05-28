@@ -4,6 +4,5 @@ During my work as a SOC Analyst, I handled many different security incidents tha
 ## Write-ups
 [Malicious Extension admitab.com](https://github.com/Muaz1425/Malicious-Extension-admitab.com)
 
-[ArcGIS Malicious SOE]([https://github.com/Muaz1425/Malicious-Extension-admitab.com](https://github.com/Muaz1425/ArcGIS-Infrastructure-Targeting-via-Exploiting-SOE-Extension)
-
+[ArcGIS Malicious SOE](https://github.com/Muaz1425/ArcGIS-Infrastructure-Targeting-via-Exploiting-SOE-Extension)
 
